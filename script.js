@@ -24,7 +24,7 @@ function toggleMode() {
     )
     img.setAttribute(
       "alt",
-      "Foto do Edu com roupa social ao lado do seu parceiro"
+      "Desenho do edu com gorro de natal e pokémon Dreppy sobre seu ombro"
     )
   }
 
